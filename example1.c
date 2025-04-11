@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+//Calapod Stefan Vinci 313AC
 typedef struct Node {
     int data;
     struct Node *next;
