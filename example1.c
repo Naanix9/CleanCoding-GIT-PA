@@ -47,7 +47,7 @@ int has_direct_path(GPH *g, int src, int dest) {
     }
     return 0;
 }
-
+//test
 int main() {
     int nrv, edg_nr;
     printf("Cate restaurante (noduri)? ");
